@@ -266,3 +266,7 @@ if __name__ == "__main__":
 
     print("\n── extract_resume(metadata=True) ───────────────────────")
     pprint.pprint(extract_resume(sample, metadata=True))
+
+
+
+## dhruv's branch
